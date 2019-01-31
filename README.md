@@ -1,0 +1,2 @@
+# Automate_cython_compilation_windows_MSVC2017_custom_project
+Automate_cython_compilation_windows_MSVC2017 custom project
